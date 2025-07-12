@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+insightface
+onnxruntime
+numpy
+pillow
+gradio==4.42.0
+insightface
+onnxruntime
+numpy
+pillow
+pydantic==2.10.6
